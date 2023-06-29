@@ -53,3 +53,15 @@
 
 </details>
 
+
+
+## ERD, 유저 플로우
+<details>
+    <summary>ERD 펼쳐보기</summary>
+    <img src="https://github.com/god-kao-talk/.github/assets/54833128/56a5afca-7256-47c2-9ad4-0e300ff74426" alt="erd">
+</details>
+
+<details>
+    <summary>유저 플로우 펼쳐보기</summary>
+    <img src="https://github.com/god-kao-talk/.github/assets/54833128/3feef34e-e2e5-48b0-b689-0a7e6224c4b0" alt="user flow">
+</details>
