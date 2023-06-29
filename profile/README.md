@@ -1,10 +1,11 @@
 ![tc3](https://github.com/god-kao-talk/.github/assets/54833128/c0ccb62e-4940-40e9-9ffd-60326cce5a89)
 
-## this.code
+# this.code
 ### 대규모 트래픽 처리가 가능한 실시간 채팅 서비스 💬
 - 현대 사회에 필수불가결한 메신저 어플의 대용량 데이터 발생과 이로 인한 부하를 견뎌내기 위해 필요한 대책을 직접 리서치 및 적용
 - 매번 업그레이드 한 버전 별로 테스트를 진행하고 결과를 수치화, 시각화하여 개선 과정 신뢰도 향상
 
+---
 ## 프로젝트 목표
 ### 1. 초당 5000건의 동시 트래픽을 감당하는 채팅 서비스
 - 채팅 메세지 전송/수신 max 1000ms
@@ -29,10 +30,12 @@
 ### 4. 채팅 검색 기능
 - 검색 성능 개선
 
+---
 ## 영상
 - 최종 발표 영상
 - [간단 홍보 영상](https://www.youtube.com/watch?v=yDGTc6K40o4)
 
+---
 ## 서비스 아키텍처
 ![서비스 아키텍처](https://github.com/god-kao-talk/.github/assets/54833128/930aa88d-07ea-47e7-9ec3-9602f52ae4fc)
 ### 활용 기술 / 기술적 의사 결정
@@ -53,8 +56,7 @@
 
 </details>
 
-
-
+---
 ## ERD, 유저 플로우
 <details>
     <summary>ERD 펼쳐보기</summary>
@@ -65,3 +67,9 @@
     <summary>유저 플로우 펼쳐보기</summary>
     <img src="https://github.com/god-kao-talk/.github/assets/54833128/3feef34e-e2e5-48b0-b689-0a7e6224c4b0" alt="user flow">
 </details>
+
+---
+## 트러블 슈팅
+
+---
+## 성능 개선
