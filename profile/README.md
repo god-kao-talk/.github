@@ -32,7 +32,7 @@
 
 ---
 ## 영상
-- 최종 발표 영상
+- [최종 발표 영상](https://www.youtube.com/watch?v=T1Iw6dhlZkQ)
 - [간단 홍보 영상](https://www.youtube.com/watch?v=yDGTc6K40o4)
 
 ---
@@ -73,3 +73,14 @@
 
 ---
 ## 성능 개선
+
+---
+## 팀원
+|역할|이름|담당|github|
+|---|---|---|---|
+|공통| |- BE 채팅 서비스 구현 <br> - 부하 테스트 결과 분석 <br> - 아키텍처 및 데이터 플로우 개선 <br> - 서비스 문제점 파악| |
+|팀장|김건|- FE 채팅 서비스 구현 및 개선 방향 제시 <br> - 코드 리팩토링 <br> - Docker 분석 및 환경 테스트 <br> - kafka를 통한 채팅 데이터 플로우 방향 제시 <br> - elasticsearch 기능 구현, 한글 형태소 분석기 추가 <br> - ES sink connector 구현|<a href="https://github.com/kimgun95"> <br> <img src="https://avatars.githubusercontent.com/u/54833128?v=4" alt="프로필 사진" width="100" height="100"> <br> </a>
+|팀원|박권재|- JUnit 테스트 코드 구현 <br> - Jmeter 시나리오 구현 및 테스트 <br> - kafka 연결 구현 <br> - kafka connet 구현, mongoDB와 연결 <br> - cassandra 구현|<a href="https://github.com/rnjswo9578"> <br> <img src="https://avatars.githubusercontent.com/u/80087131?v=4" alt="프로필 사진1" width="100" height="100"> <br> </a>|
+|팀원|이상언|- 코드 리팩토링 <br> - Jmeter 시나리오 구현 및 테스트 <br> - Grafana 구현 <br> - Prometheus, Spring actuator 구현 <br> - QueryDSL 구현|<a href="https://github.com/rnjswo9578"> <br> <img src="https://avatars.githubusercontent.com/u/87771474?v=4" alt="프로필 사진2" width="100" height="100"> <br> </a>|
+|팀원|이태경|- kafka 구현 <br> - NoSQL분석, MongoDB 연결 <br> - Docker Swarm 구현 <br> - GitAction CI/CD 구현 <br> - Grafana, Prometheus 구현|<a href="https://github.com/taekk1a2a3a"> <br> <img src="https://avatars.githubusercontent.com/u/111736036?v=4" alt="프로필 사진3" width="100" height="100"> <br> </a>|
+
