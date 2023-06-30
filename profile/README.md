@@ -1,44 +1,44 @@
 ![tc3](https://github.com/god-kao-talk/.github/assets/54833128/c0ccb62e-4940-40e9-9ffd-60326cce5a89)
 
-# this.code
+# this.code 👩‍💻
 ### 대규모 트래픽 처리가 가능한 실시간 채팅 서비스 💬
 - 현대 사회에 필수불가결한 메신저 어플의 대용량 데이터 발생과 이로 인한 부하를 견뎌내기 위해 필요한 대책을 직접 리서치 및 적용
 - 매번 업그레이드 한 버전 별로 테스트를 진행하고 결과를 수치화, 시각화하여 개선 과정 신뢰도 향상
 
 ---
 ## 프로젝트 목표
-### 1. 초당 5000건의 동시 트래픽을 감당하는 채팅 서비스
+### 1. 초당 5000건의 동시 트래픽을 감당하는 채팅 서비스 ⚡
 - 채팅 메세지 전송/수신 max 1000ms
 - 채팅 메세지 영구 저장
 - 실시간 서버 모니터링
 - 스케일 아웃 가능한 서버
 
-### 2. 스파이크 테스트로 안정성 있는 트래픽 관리
+### 2. 스파이크 테스트로 안정성 있는 트래픽 관리 📈
 - 단계별로 아래의 테스트 조건들을 상향시키면서 에러율과 최대지연시간의 결과와 원인을 분석하며 성능 개선
     - 동시간대 접속 유저 : 100~5000명
     - 초당 보내는 채팅 수 : 100~5000개
     - 분당 보내는 총 채팅 수 : 6000~300,000개
     - 응답 시간 제한 : 1000ms, 2000ms
 
-### 3. 실시간으로 누적되는 데이터 처리
+### 3. 실시간으로 누적되는 데이터 처리 💾
 - 분당 최대 300000건의 데이터들을 수용하기 위한 DB 성능 개선
 - 경제적이고 효율적인 DB선정을 위한 데이터베이스 시스템 분석
     - MySQL
     - MongoDB
     - Cassandra
 
-### 4. 채팅 검색 기능
+### 4. 채팅 검색 기능 🔎
 - 검색 성능 개선
 
 ---
-## 영상
+## 영상 📽️
 - [최종 발표 영상](https://www.youtube.com/watch?v=T1Iw6dhlZkQ)
 - [간단 홍보 영상](https://www.youtube.com/watch?v=yDGTc6K40o4)
 
 ---
-## 서비스 아키텍처
+## 서비스 아키텍처 ⚙️
 ![서비스 아키텍처](https://github.com/god-kao-talk/.github/assets/54833128/930aa88d-07ea-47e7-9ec3-9602f52ae4fc)
-### 활용 기술 / 기술적 의사 결정
+### 활용 기술 / 기술적 의사 결정 ⚒️
 <details>
   <summary>의사결정 펼쳐보기</summary>
 
@@ -57,7 +57,7 @@
 </details>
 
 ---
-## ERD, 유저 플로우
+## ERD, 유저 플로우 🏄
 <details>
     <summary>ERD 펼쳐보기</summary>
     <img src="https://github.com/god-kao-talk/.github/assets/54833128/56a5afca-7256-47c2-9ad4-0e300ff74426" alt="erd">
@@ -69,7 +69,7 @@
 </details>
 
 ---
-## 부하 테스트 및 성능 개선
+## 부하 테스트 및 성능 개선 🔥
 - [🐬version 0.1](https://www.notion.so/version-0-1-a5d33fa6a17247498c25f3d79f8d02f2)
 - [🐒version 0.2](https://www.notion.so/version-0-2-b8a2c77900f54824a71378bc704e6445)
 - [🐅version 0.3](https://www.notion.so/version-0-3-afadc459105944a9b1a2b13c61cf621a)
@@ -78,7 +78,7 @@
     - [부하 테스트 기록](https://docs.google.com/spreadsheets/d/1K3fgQ_T9y2-cGr0WNEFuMYYJ845qjKn5BfrGWD9_tHo/edit#gid=1540611111)
 
 ---
-## 팀원
+## 팀원 👨‍👩‍👦‍👦
 |역할|이름|담당|github|
 |---|---|---|---|
 |공통| |- BE 채팅 서비스 구현 <br> - 부하 테스트 결과 분석 <br> - 아키텍처 및 데이터 플로우 개선 <br> - 서비스 문제점 파악| |
