@@ -69,10 +69,13 @@
 </details>
 
 ---
-## 트러블 슈팅
-
----
-## 성능 개선
+## 부하 테스트 및 성능 개선
+- [🐬version 0.1](https://www.notion.so/version-0-1-a5d33fa6a17247498c25f3d79f8d02f2)
+- [🐒version 0.2](https://www.notion.so/version-0-2-b8a2c77900f54824a71378bc704e6445)
+- [🐅version 0.3](https://www.notion.so/version-0-3-afadc459105944a9b1a2b13c61cf621a)
+- [❌version 0.x](https://www.notion.so/version-0-x-c9983b7397724ff9bba241088714d53d)
+- [최종 성능 개선 결과](https://www.notion.so/dca6e10439e84264b390f12abbda9d93)
+    - [부하 테스트 기록](https://docs.google.com/spreadsheets/d/1K3fgQ_T9y2-cGr0WNEFuMYYJ845qjKn5BfrGWD9_tHo/edit#gid=1540611111)
 
 ---
 ## 팀원
