@@ -34,6 +34,22 @@
 ## 영상 📽️
 - [최종 발표 영상](https://www.youtube.com/watch?v=T1Iw6dhlZkQ)
 - [간단 홍보 영상](https://www.youtube.com/watch?v=yDGTc6K40o4)
+- 핵심 기능 시연 영상
+  
+|채팅방 추가|채팅 기능|
+|---|---|
+|<img src="https://github.com/god-kao-talk/.github/assets/54833128/1805e65e-8f72-44de-87ae-0511d7631989" alt="채팅방 추가" width="450" height="450">|<img src="https://github.com/god-kao-talk/.github/assets/54833128/9e418882-f6d9-479c-9769-1dc782e96fe3" alt="채팅 내용" width="450" height="450">|
+
+- 부하 테스트 시연 영상
+  
+|1. 도커 스웜을 통한 클러스터 환경 구축|2. JMeter를 통한 부하 테스트 시작|
+|---|---|
+|<img src="https://github.com/god-kao-talk/.github/assets/54833128/bde608c9-9f2b-4ab7-bcbb-50c5bc921539" alt="도커 스웜" width="450" height="450">|<img src="https://github.com/god-kao-talk/.github/assets/54833128/ba7db99e-0165-48f8-b777-a730f1461a70" alt="부하 테스트 시작" width="450" height="450">|
+|3. 도커 컨테이너 리소스 사용률 및 서버 로그 확인|4. 그라파나를 통한 서버 모니터링|
+|<img src="https://github.com/god-kao-talk/.github/assets/54833128/a6a10f6d-6ddd-478f-bbfe-240958e4b59e" alt="서버 로그" width="450" height="450">|<img src="https://github.com/god-kao-talk/.github/assets/54833128/3f2903c2-53f6-4032-8045-a16a6461b3bc" alt="서버 모니터링" width="450" height="450">|
+|5. db 모니터링|6. 테스트를 통해 나온 지표 확인 및 분석|
+|<img src="https://github.com/god-kao-talk/.github/assets/54833128/3f23b817-f016-4f59-a5fc-74f9dd4f1f74" alt="db 모니터링" width="450" height="450">|<img src="https://github.com/god-kao-talk/.github/assets/54833128/6c86c920-8a0a-4e45-9199-e11858703373" alt="테스트 결과 확인" width="450" height="450">|
+
 
 ---
 ## 서비스 아키텍처 ⚙️
